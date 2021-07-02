@@ -1,0 +1,4 @@
+key=<YourKey>
+secretkey=<YourSecretKey>
+imageLocation=imagesToAnalyze
+outputLocation=output
